@@ -10,7 +10,7 @@ fully functional wordpress plugin.
 
 I use the Annina theme and the following CSS to make it look nice on my front-page:
 
-'''
+```
 .type-microposts .content-annina {
 background: #CCCCCC;
 border: 2px solid #990404;
@@ -28,7 +28,7 @@ display:none;
 .type-microposts .entry-footer {
 display:none;
 }
-''''
+```
 
 (Note: I'm aware that it's bad to add text to pages using CSS, so please do not do this at home :)
 
